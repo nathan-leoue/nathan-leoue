@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<img="src : https://www.skyweaver.net/images/media/wallpapers/wallpaper1.jpg">
+I'm Nathan, an IT student based in France.  
+
+I design and build projects to turn ideas into code.  
+
+I'm still learning and continuously improving through practice and mistakes.
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
